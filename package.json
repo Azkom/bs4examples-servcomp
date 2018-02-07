@@ -1,0 +1,27 @@
+{
+  "name": "bs4examples-servcomp",
+  "version": "1.0.0",
+  "description": "Service Company theme based on Bootstrap 4 course",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "bootstrap4",
+    "azkom",
+    "azkomproject"
+  ],
+  "author": "Azkom",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
